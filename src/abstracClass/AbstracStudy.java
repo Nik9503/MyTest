@@ -20,5 +20,5 @@ public abstract class AbstracStudy {
 	{
 		System.out.println("Hi I Am test 2 moethod ");
 	}
-
+	//Here i make some changes
 }
